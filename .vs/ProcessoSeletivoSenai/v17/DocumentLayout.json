@@ -1,7 +1,28 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\SENAI\\source\\repos\\ProcessoSeletivoSenai\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FB8008E4-A62C-4151-8089-5457189F0384}|ProcessoSeletivoSenai\\ProcessoSeletivoSenai.csproj|c:\\users\\senai\\source\\repos\\processoseletivosenai\\processoseletivosenai\\processoseletivosenai.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FB8008E4-A62C-4151-8089-5457189F0384}|ProcessoSeletivoSenai\\ProcessoSeletivoSenai.csproj|solutionrelative:processoseletivosenai\\processoseletivosenai.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB8008E4-A62C-4151-8089-5457189F0384}|ProcessoSeletivoSenai\\ProcessoSeletivoSenai.csproj|c:\\users\\senai\\source\\repos\\processoseletivosenai\\processoseletivosenai\\controllers\\tarefascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB8008E4-A62C-4151-8089-5457189F0384}|ProcessoSeletivoSenai\\ProcessoSeletivoSenai.csproj|solutionrelative:processoseletivosenai\\controllers\\tarefascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB8008E4-A62C-4151-8089-5457189F0384}|ProcessoSeletivoSenai\\ProcessoSeletivoSenai.csproj|c:\\users\\senai\\source\\repos\\processoseletivosenai\\processoseletivosenai\\tarefa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB8008E4-A62C-4151-8089-5457189F0384}|ProcessoSeletivoSenai\\ProcessoSeletivoSenai.csproj|solutionrelative:processoseletivosenai\\tarefa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB8008E4-A62C-4151-8089-5457189F0384}|ProcessoSeletivoSenai\\ProcessoSeletivoSenai.csproj|c:\\users\\senai\\source\\repos\\processoseletivosenai\\processoseletivosenai\\tarefas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB8008E4-A62C-4151-8089-5457189F0384}|ProcessoSeletivoSenai\\ProcessoSeletivoSenai.csproj|solutionrelative:processoseletivosenai\\tarefas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB8008E4-A62C-4151-8089-5457189F0384}|ProcessoSeletivoSenai\\ProcessoSeletivoSenai.csproj|c:\\users\\senai\\source\\repos\\processoseletivosenai\\processoseletivosenai\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB8008E4-A62C-4151-8089-5457189F0384}|ProcessoSeletivoSenai\\ProcessoSeletivoSenai.csproj|solutionrelative:processoseletivosenai\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +30,76 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProcessoSeletivoSenai",
+              "DocumentMoniker": "C:\\Users\\SENAI\\source\\repos\\ProcessoSeletivoSenai\\ProcessoSeletivoSenai\\ProcessoSeletivoSenai.csproj",
+              "RelativeDocumentMoniker": "ProcessoSeletivoSenai\\ProcessoSeletivoSenai.csproj",
+              "ToolTip": "C:\\Users\\SENAI\\source\\repos\\ProcessoSeletivoSenai\\ProcessoSeletivoSenai\\ProcessoSeletivoSenai.csproj",
+              "RelativeToolTip": "ProcessoSeletivoSenai\\ProcessoSeletivoSenai.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-30T12:45:51.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Tarefas.cs",
+              "DocumentMoniker": "C:\\Users\\SENAI\\source\\repos\\ProcessoSeletivoSenai\\ProcessoSeletivoSenai\\Tarefas.cs",
+              "RelativeDocumentMoniker": "ProcessoSeletivoSenai\\Tarefas.cs",
+              "ToolTip": "C:\\Users\\SENAI\\source\\repos\\ProcessoSeletivoSenai\\ProcessoSeletivoSenai\\Tarefas.cs",
+              "RelativeToolTip": "ProcessoSeletivoSenai\\Tarefas.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T12:46:08.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SENAI\\source\\repos\\ProcessoSeletivoSenai\\ProcessoSeletivoSenai\\Program.cs",
+              "RelativeDocumentMoniker": "ProcessoSeletivoSenai\\Program.cs",
+              "ToolTip": "C:\\Users\\SENAI\\source\\repos\\ProcessoSeletivoSenai\\ProcessoSeletivoSenai\\Program.cs",
+              "RelativeToolTip": "ProcessoSeletivoSenai\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T12:17:03.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Tarefa.cs",
+              "DocumentMoniker": "C:\\Users\\SENAI\\source\\repos\\ProcessoSeletivoSenai\\ProcessoSeletivoSenai\\Tarefa.cs",
+              "RelativeDocumentMoniker": "ProcessoSeletivoSenai\\Tarefa.cs",
+              "ToolTip": "C:\\Users\\SENAI\\source\\repos\\ProcessoSeletivoSenai\\ProcessoSeletivoSenai\\Tarefa.cs",
+              "RelativeToolTip": "ProcessoSeletivoSenai\\Tarefa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T12:03:04.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TarefasController.cs",
+              "DocumentMoniker": "C:\\Users\\SENAI\\source\\repos\\ProcessoSeletivoSenai\\ProcessoSeletivoSenai\\Controllers\\TarefasController.cs",
+              "RelativeDocumentMoniker": "ProcessoSeletivoSenai\\Controllers\\TarefasController.cs",
+              "ToolTip": "C:\\Users\\SENAI\\source\\repos\\ProcessoSeletivoSenai\\ProcessoSeletivoSenai\\Controllers\\TarefasController.cs",
+              "RelativeToolTip": "ProcessoSeletivoSenai\\Controllers\\TarefasController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwBcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T12:00:16.584Z",
+              "EditorCaption": ""
             }
           ]
         }

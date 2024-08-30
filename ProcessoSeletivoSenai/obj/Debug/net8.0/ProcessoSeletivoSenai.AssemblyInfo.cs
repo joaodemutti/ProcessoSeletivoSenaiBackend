@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ProcessoSeletivoSenai")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+de2f6bf2260ab0aab3df6b9a42d6f67967c1131d")]
 [assembly: System.Reflection.AssemblyProductAttribute("ProcessoSeletivoSenai")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ProcessoSeletivoSenai")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
